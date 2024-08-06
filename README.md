@@ -1,7 +1,5 @@
 # Schul-Atlas von H. Wettstein (1887)
 
-## Description
-
 This repository contains a digitized version of "Schul-Atlas von H. Wettstein", an educational atlas published in 1887. The atlas was originally created as a mandatory teaching aid for secondary schools in the Canton of Zurich, Switzerland.
 
 ## Contents
