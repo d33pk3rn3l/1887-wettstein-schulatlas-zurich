@@ -6,8 +6,9 @@ This repository contains a digitized version of "Schul-Atlas von H. Wettstein", 
 
 This repository contains two versions of the atlas:
 
-1. `wettstein_schulatlas_1887_original.pdf`: The full, original quality version of the atlas (file size is large).
-2. `wettstein_schulatlas_1887_compressed.pdf`: A compressed version of the atlas for easier downloading and viewing.
+1. [wettstein_schulatlas_1887_original.pdf](https://github.com/d33pk3rn3l/1887-wettstein-schulatlas-zurich/blob/main/wettstein_schulatlas_1887_original.pdf): The full, original quality version of the atlas (file size may be large).
+
+2. [wettstein_schulatlas_1887_compressed.pdf](https://github.com/d33pk3rn3l/1887-wettstein-schulatlas-zurich/blob/main/wettstein_schulatlas_1887_compressed.pdf): A compressed version of the atlas for easier downloading and viewing.
 
 Both files contain the complete atlas, including the title page, all plates, and images. The compressed version is provided for convenience, while the original version preserves the highest quality of the digitized document.
 
